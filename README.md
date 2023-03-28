@@ -1,5 +1,15 @@
 # portfolio_ana
 
+## TODO NEXT
+
+* Definir um Design
+* Adicionar "Skills"
+* Add Informações "About Me"
+* Add experiência
+* Add tradução
+* Add anos por projeto
+* Testar resposividade
+
 ## Build Setup
 
 ```bash
